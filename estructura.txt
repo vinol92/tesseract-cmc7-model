@@ -1,7 +1,0 @@
-micr-reader/
- ├── pom.xml
- ├── src/
- │   └── main/
- │       └── java/
- │           └── com/vinol/micr/MicrReader.java
- └── cmc7.traineddata  (opcional, si prefieres empaquetarlo)
